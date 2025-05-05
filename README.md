@@ -50,6 +50,13 @@ Using `tweepy`, this system streams tweets based on hashtags or keywords and cla
 
 This project highlights the importance—and the difficulty—of identifying harmful speech online. It is not meant to censor but to **caution**, offering a chance to rethink before posting something potentially hurtful. As Elon Musk’s vision reshapes platforms like X, AI tools like this can help maintain respectful discourse.
 
+## 📚 References
+
+1. Tweepy Documentation – [https://docs.tweepy.org/](https://docs.tweepy.org/)
+2. Hugging Face Transformers Documentation – [https://huggingface.co/docs/transformers](https://huggingface.co/docs/transformers)
+3. Kaggle Dataset: Cyberbullying Classification – [https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification](https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification)
+
+
 **No to Online Hate!**
 
 ---
