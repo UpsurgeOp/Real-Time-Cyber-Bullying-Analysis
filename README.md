@@ -37,7 +37,7 @@ Using `tweepy`, this system streams tweets based on hashtags or keywords and cla
 
 ## 🎥 Demo Video
 
-➡️ [Watch the video here](https://youtu.be/XqLk1CP4aDI) 
+➡️ [Watch the video here](https://youtu.be/kxBgn8cdJEQ) 
 
 ## 🚧 Challenges Faced
 
